@@ -1,6 +1,23 @@
-- 技术栈 Java/Golang
-- 学习|音乐|电影|游戏
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xxsdxmd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
 
-![mystatus](https://github-readme-stats.vercel.app/api?username=xxsdxmd&show_icons=true&theme=vue-dark&count_private=true)
-- 
-![topLanagues](https://github-readme-stats.vercel.app/api/top-langs?username=6yi&show_icons=true&theme=vue-dark&count_private=true)
+### Hello, I'm xxsdxmd👋
+
+<!--
+**xxsdxmd/xxsdxmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on HelloBike
+- 📫 Reach me: xxsdxmd@163.com
+- ⚡ Hobby: Basketball、Movie
+
