@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
 - 🌱 I’m currently learning Java
 - 🔭 I’m currently working on HelloBike
 - 📫 Reach me: xxsdxmd@163.com
 - ⚡ Hobby: Singing Dancing Rap
 
-
-<style>
-  img {
-    margin-top: 45px
-  }
-</style>
 
 
