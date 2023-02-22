@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 📫 Reach me: xxsdxmd@163.com
 - ⚡ Hobby: Singing Dancing Rap
 
-<img align="right" style="margin-top:45px" src="https://github-readme-stats.vercel.app/api?username=xxsdxmd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xxsdxmd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
 
 
